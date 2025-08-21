@@ -7,4 +7,4 @@ if(a>b):
 elif(b>a):
     print("b is greater")
 else:
-    print("a==b")       
+    print("a==b")
