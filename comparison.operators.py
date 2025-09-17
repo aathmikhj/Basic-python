@@ -1,0 +1,6 @@
+print(False>=(0**0))
+print(((True+True)**False)!=1)
+print(True<=(1**1))
+print(False>=(0**0))
+print(101<(10**2))
+print(95<100)
