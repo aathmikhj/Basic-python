@@ -7,4 +7,5 @@ class Student:
 s1=Student("Rama",18,5.3,"Bang")
 s2=Student("Sita",20,5.0,"Hyd")
 print(s1.name,s1.age,s1.height,s1.addr)
+print(s2.name,s2.age,s2.height,s2.addr)
 

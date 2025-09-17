@@ -1,0 +1,6 @@
+print(True and 22 and -55)
+print((10**1)and ((2**5)>=(10%2)))
+print((True+True)and(1000*(2-2)))
+print(13 or 14 or 0)
+print((False and -3)or(10 and(15 or 1)))
+print(((13*2)-1)or(16*1))
